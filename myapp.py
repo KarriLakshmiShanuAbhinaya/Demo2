@@ -21,5 +21,5 @@ with col4:
   st.write("Tom and Jerry are best friends")
 with col5:
   st.subheader("Tom and jerry")
-  st.video("https://www.youtube.com/watch?v=8WfMUqd4qH8&pp=ygUUdG9tIGFuZCBqZXJyeSB0ZWx1Z3U%3D",width=300)
+  st.video("https://www.youtube.com/watch?v=8WfMUqd4qH8&pp=ygUUdG9tIGFuZCBqZXJyeSB0ZWx1Z3U%3D")
   st.write("Tom and Jerry are best friends")
