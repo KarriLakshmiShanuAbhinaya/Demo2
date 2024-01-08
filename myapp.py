@@ -14,7 +14,7 @@ with col3:
   st.subheader("Burmesecat")
   st.image("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp3h22InvhCrmGBT4jVXM3f-5kJoCHZl2mDucWsUD9Z6lIJa7V",width=220)
   st.write("Burmese cats are cute")
-col4,col5=st.column(2)
+col4,col5=st.columns(2)
 with col4:
   st.subheader("Tom and jerry")
   st.image("https://www.gifcen.com/wp-content/uploads/2021/09/tom-and-jerry-gif.gif",width=300)
