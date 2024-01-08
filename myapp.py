@@ -16,7 +16,7 @@ with col3:
   st.write("Burmese cats are cute")
 with col1:
   st.subheader("Tom and jerry")
-  st.image("https://www.gifcen.com/wp-content/uploads/2021/09/tom-and-jerry-gif.gif",width=300)
+  st.image("https://www.gifcen.com/wp-content/uploads/2021/09/tom-and-jerry-gif.gif",width=220)
   st.write("Tom and Jerry are best friends")
 with col2:
   st.subheader("Tom and jerry")
