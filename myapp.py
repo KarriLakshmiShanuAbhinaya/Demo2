@@ -1,7 +1,7 @@
 import streamlit as st
 st.set_page_config(page_title='Cats')
 st.header("types od cats")
-col1,col2=st.columns(4)
+col1,col2,col3,col4=st.columns(4)
 with col1:
   st.subheader("American Short hair cat")
   st.image("https://www.thesprucepets.com/thmb/17UY4UpiMekV7WpeXDziXsnt7q4=/1646x0/filters:no_upscale():strip_icc()/GettyImages-145577979-d97e955b5d8043fd96747447451f78b7.jpg")
