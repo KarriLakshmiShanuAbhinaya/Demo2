@@ -22,5 +22,5 @@ with col4:
 col5=st.columns(1)
 with col5:
   st.subheader("Tom and jerry")
-  st.video("https://www.youtube.com/embed/t0Q2otsqC4I" title="Tom &amp; Jerry | Tom &amp; Jerry in Full Screen | Classic Cartoon Compilation | WB Kids" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share")
+  st.image("https://www.youtube.com/embed/t0Q2otsqC4I" title="Tom &amp; Jerry | Tom &amp; Jerry in Full Screen | Classic Cartoon Compilation | WB Kids")
   st.write("Tom and Jerry are best friends")
