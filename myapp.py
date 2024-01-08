@@ -5,8 +5,8 @@ col1,col2=st.columns(2)
 with col1:
   st.subheader("American Short hair cat")
   st.image("https://www.thesprucepets.com/thmb/17UY4UpiMekV7WpeXDziXsnt7q4=/1646x0/filters:no_upscale():strip_icc()/GettyImages-145577979-d97e955b5d8043fd96747447451f78b7.jpg")
-  st.write("persian cats aare cute")
+  st.write("American Short hair cats are cute")
 with col2:
   st.subheader("Birman")
   st.image("https://www.thesprucepets.com/thmb/D5s03LINbIYpZuiG6uvBpKrAKXk=/3500x0/filters:no_upscale():strip_icc()/GettyImages-623368786-f66c97ad6d2d494287b448415f4340a8.jpg")
-  st.write("rainbow rose's are very beutiful")
+  st.write("Birman are very beutiful")
