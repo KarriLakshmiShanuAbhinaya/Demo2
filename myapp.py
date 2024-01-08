@@ -19,7 +19,6 @@ with col4:
   st.subheader("Tom and jerry")
   st.image("https://www.gifcen.com/wp-content/uploads/2021/09/tom-and-jerry-gif.gif",width=300)
   st.write("Tom and Jerry are best friends")
-col6,col7=st.column(2)
 with col5:
   st.subheader("Tom and jerry")
   st.video("https://www.youtube.com/watch?v=8WfMUqd4qH8&pp=ygUUdG9tIGFuZCBqZXJyeSB0ZWx1Z3U%3D")
