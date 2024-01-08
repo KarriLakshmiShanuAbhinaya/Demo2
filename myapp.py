@@ -1,8 +1,8 @@
 import streamlit as st
 st.set_page_config(page_title='Cats')
+st.markdown("<h1 style='color:#2D9596;'>Types of Cats</h1>", unsafe_allow_html=True)
 #st.header("types od cats")
 col1,col2,col3=st.columns(3)
-st.markdown("<h1 style='color:#2D9596;'>Types of Cats</h1>", unsafe_allow_html=True)
 with col1:
   st.subheader("American cat")
   st.image("https://www.thesprucepets.com/thmb/17UY4UpiMekV7WpeXDziXsnt7q4=/1646x0/filters:no_upscale():strip_icc()/GettyImages-145577979-d97e955b5d8043fd96747447451f78b7.jpg",width=230)
